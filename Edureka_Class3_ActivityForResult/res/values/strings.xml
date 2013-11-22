@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Please select a Category</string>
+    <string name="app_name">Activity Getting A Response</string>
+<string name="SelectCountries">Countries</string>
+<string name="SelectRank">Rank</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Edureka_Class3_Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="music">Music Genre</string>
+    
+    <string-array name="music_choices">
+        <item>Bollywood</item>
+        <item>Metal</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+    </string-array>
+
+</resources>
